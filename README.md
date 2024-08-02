@@ -1,5 +1,11 @@
 Welcome to Kaizoku! 🎉 Your ultimate destination for free, ad-free anime streaming. Dive into a world of endless anime adventures with Kaizoku.
 
+
+<img src="blob:chrome-untrusted://media-app/321ce309-4e5c-426e-9417-285a94f24a84" alt="ka.webp"/>![image](https://github.com/user-attachments/assets/4ee11940-14ee-47e0-ab57-876fa1998e9e)
+
+
+
+
 Features
 Free Streaming: Enjoy unlimited access to a vast library of anime without any cost.
 Ad-Free Experience: Watch your favorite shows without any interruptions.
