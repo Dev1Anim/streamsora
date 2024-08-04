@@ -232,6 +232,7 @@ export function Navbar({
                                         alt="avatar"
                                         width={50}
                                         height={50}
+                                        quality={100}
                                         className="w-7 h-7 object-cover"
                                     />
                                 </button>
@@ -263,6 +264,7 @@ export function Navbar({
                                     className="h-7 w-7 rounded-full"
                                     width={0}
                                     height={0}
+                                    quality={100}
                                     src={`https://avatar.vercel.sh/1`}
                                     alt="pfp"
                                 />

@@ -443,7 +443,7 @@ export default function Home({
                         exit={{opacity: 0, y: 20}}
                         transition={{duration: 0.5}}
                         href={`/en/anime/${firstTrend?.id || ''}`}
-                        className="rounded rounded-tl-[4px] rounded-tr-[4px] rounded-bl-[4px] rounded-br-[4px] p-3 text-[#66ccff] border border-[#66ccff] hover:bg-[#66ccff] hover:text-white hover:ring-2 hover:ring-[#66ccff] transition-all duration-300 text-md font-karla font-light m-3"
+                        className="rounded rounded-tl-[4px] rounded-tr-[4px] rounded-bl-[4px] rounded-br-[4px] p-3 text-[#ffffff] border border-[#ffffff] hover:bg-transparent hover:text-white hover:ring-2 hover:ring-[#ffffff] transition-all duration-300 text-md font-karla font-light m-3"
                     >
                       START WATCHING
                     </motion.a>
