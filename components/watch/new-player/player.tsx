@@ -300,13 +300,6 @@ export default function VidStack({
     };
   }, [track?.skip, duration, player.current]);
 
-  useEffect(() => {
-    return () => {
-      if (player.current) {
-        player.current.destroy();
-      }
-    };
-  }, [id]);
 
   function onEnded() {
     if (!navigation?.next?.id) return;
