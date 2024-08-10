@@ -37,7 +37,7 @@ export function Navbar({
                            paddingY = "py-3",
                            home = false,
                            back = false,
-                           manga = false,
+                           manga = true,
                            shrink = false,
                            bgHover = false,
                        }: NavbarProps) {
@@ -156,6 +156,14 @@ export function Navbar({
                                     className="hover:text-action/80 transition-all duration-150 ease-linear"
                                 >
                                     Anime
+                                </Link>
+                            </li>
+                            <li>
+                                <Link
+                                    href="/en/hanime/hentai"
+                                    className="hover:text-action/80 transition-all duration-150 ease-linear"
+                                >
+                                    Hanime
                                 </Link>
                             </li>
                             <li>
