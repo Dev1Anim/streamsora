@@ -100,7 +100,7 @@ function Footer() {
                     <div className="flex items-center gap-5">
                         {/* Github Icon */}
                         <Link
-                            href="https://github.com/Kaizoku/"
+                            href="/"
                             className="w-5 h-5 hover:opacity-75"
                         >
                             <svg
